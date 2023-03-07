@@ -56,18 +56,28 @@ Instructions
 
 [<img src="/assets/Screenshot_11_01.png" height="500" />](/assets/Screenshot_11_01.png)
 
-⬇️ Read the message ☺️
+⬇️ Read the response ☺️
 
 [<img src="/assets/Screenshot_12_01.png" height="500" />](/assets/Screenshot_12_01.png)
 
-⬇️ ⏳Wait a minute⏳
+⬇️ Send another message
 
 [<img src="/assets/Screenshot_13_01.png" height="500" />](/assets/Screenshot_13_01.png)
 
-⬇️ ⏳Wait a minute⏳
+⬇️ Read the response ☺️
 
 [<img src="/assets/Screenshot_14_01.png" height="500" />](/assets/Screenshot_141_01.png)
 
-⬇️ ⏳Wait a minute⏳
+### Do this after every session to save on free Google Colab credits
+
+⬇️ Click the button
 
 [<img src="/assets/Screenshot_15_01.png" height="500" />](/assets/Screenshot_15_01.png)
+
+⬇️ Click "Runtime" -> "Disconnect and delete runtime"
+
+[<img src="/assets/Screenshot_16_01.png" height="500" />](/assets/Screenshot_16_01.png)
+
+⬇️ Click "Yes"
+
+[<img src="/assets/Screenshot_17_01.png" height="500" />](/assets/Screenshot_17_01.png)
