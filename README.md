@@ -1,6 +1,8 @@
 ChatGPT-J
 =========
 
+ChatGPT-J is an open source chatbot with a simple user interface! It can run even on a cell phone.
+
 ChatGPT-J runs completely in the Google Colab notebook. No information is sent to an external server (except for the external server that's running the Colab Notebook).
 
 ChatGPT-J has less restrictions than ChatGPT. Be safe.
