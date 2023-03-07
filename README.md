@@ -1,2 +1,2 @@
-# chatgpt-j
-Chat interface to gpt-j. Runs in Google Colab.
+# ChatGPT-J
+Chat interface to GPT-J. Runs in Google Colab.
