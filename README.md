@@ -43,3 +43,31 @@ Instructions
 ⬇️ Type a message in the "Human:" prompt
 
 [<img src="/assets/Screenshot_09_01.png" height="500" />](/assets/Screenshot_09_01.png)
+
+⬇️ Click "Send Message"
+
+[<img src="/assets/Screenshot_10_01.png" height="500" />](/assets/Screenshot_10_01.png)
+
+⬇️ Wait a minute...
+
+[<img src="/assets/Screenshot_11_01.png" height="500" />](/assets/Screenshot_11_01.png)
+
+⬇️ ⏳Wait a minute⏳
+
+[<img src="/assets/Screenshot_11_01.png" height="500" />](/assets/Screenshot_11_01.png)
+
+⬇️ Read the message ☺️
+
+[<img src="/assets/Screenshot_12_01.png" height="500" />](/assets/Screenshot_12_01.png)
+
+⬇️ ⏳Wait a minute⏳
+
+[<img src="/assets/Screenshot_13_01.png" height="500" />](/assets/Screenshot_13_01.png)
+
+⬇️ ⏳Wait a minute⏳
+
+[<img src="/assets/Screenshot_14_01.png" height="500" />](/assets/Screenshot_141_01.png)
+
+⬇️ ⏳Wait a minute⏳
+
+[<img src="/assets/Screenshot_15_01.png" height="500" />](/assets/Screenshot_15_01.png)
