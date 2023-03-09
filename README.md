@@ -14,7 +14,7 @@ ChatGPT-J is a user interface for a modified version of [GPT-J-6B](https://www.f
 Instructions
 ------------
 
-⬇️ Open the Google Colab notebook in a new tab: [<img src="/assets/open_in_colab.svg" />](/assets/open_in_colab.svg)
+⬇️ Open the Google Colab notebook in a new tab: [<img src="/assets/open_in_colab.svg" />](https://colab.research.google.com/drive/1IRYRE5XXok0CIyLaQR4pgv9Q9Cv9lHvB)
 
 [<img src="/assets/Screenshot_01_01.png" height="500" />](/assets/Screenshot_01_01.png)
 
